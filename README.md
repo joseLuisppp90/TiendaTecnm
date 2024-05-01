@@ -5,7 +5,7 @@ Tienda del tecnológico de Tláhuac
 Portada:
 -Tecnologico de Tláhuac I
 - Proyecto: TiendaTecNM
-- Autor: JoseLuis
+- Autor: Jose Luis Soto Chávez 
 - Fecha: 29/04/2024
 - Versión: 1.0
 
