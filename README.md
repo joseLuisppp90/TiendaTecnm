@@ -29,11 +29,13 @@ Portada:
 
 Resumen:
 El proyecto TiendaTecNM es una aplicación web desarrollada en React que proporciona una plataforma de compras en línea para estudiantes universitarios del Tecnológico Nacional de México (TecNM). La tienda ofrece una variedad de productos que incluyen relojes, perfumes, tenis y otros artículos necesarios para la vida estudiantil. El objetivo del proyecto es brindar una experiencia de compra conveniente y eficiente para los usuarios, aprovechando la flexibilidad y la potencia de React para desarrollar una interfaz de usuario dinámica y receptiva.
+![image](https://github.com/joseLuisppp90/TiendaTecnm/assets/119635382/a7f367f9-12b8-4f8d-993f-b89316f6eded)
 
 ---
 
 Introducción:
 En la era digital actual, las compras en línea se han convertido en una parte fundamental de la vida cotidiana. Con el objetivo de proporcionar a los estudiantes del Tecnológico Nacional de México una plataforma conveniente para adquirir los productos que necesitan, se ha desarrollado la TiendaTecNM. Esta aplicación web permite a los usuarios explorar y comprar una amplia gama de productos desde la comodidad de sus hogares o dispositivos móviles.
+![image2](https://github.com/joseLuisppp90/TiendaTecnm/assets/119635382/1a9de3b6-a3ed-457f-87eb-671ca8d9c552)
 
 ---
 
@@ -56,6 +58,7 @@ Tecnologías Utilizadas:
 
 Estructura del Proyecto:
 El proyecto TiendaTecNM está estructurado siguiendo las mejores prácticas de desarrollo de aplicaciones React, con componentes reutilizables, manejo de estado con hooks y enrutamiento mediante React Router. La lógica de la aplicación se divide en diferentes componentes para facilitar el mantenimiento y la escalabilidad del código.
+![imagen1](https://github.com/joseLuisppp90/TiendaTecnm/assets/119635382/12bd8561-c33b-4765-8214-3eeba182c0f1)
 
 Funcionalidades Principales
 - Registro y inicio de sesión de usuarios.
