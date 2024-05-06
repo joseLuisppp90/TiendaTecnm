@@ -65,8 +65,11 @@ Funcionalidades Principales
 - Proceso de pago seguro utilizando métodos de pago electrónicos.
 - Historial de pedidos para usuarios registrados.
 
----
 
+
+![imagendel](imagen1.png)
+---
+ 
 Conclusiones:
 El desarrollo de TiendaTecNM ha sido un proyecto emocionante que ha demostrado el potencial de React para crear aplicaciones web modernas y funcionales. La combinación de tecnologías utilizadas ha permitido ofrecer una experiencia de compra en línea intuitiva y segura para los estudiantes del Tecnológico Nacional de México. Además, la decisión de alojar el código en GitHub garantiza su accesibilidad para cualquier persona interesada en utilizarlo o contribuir al desarrollo futuro de la aplicación.
 
@@ -77,3 +80,8 @@ Referencias
 - Documentación oficial de Firebase: https://firebase.google.com/docs
 
 ---
+## Screenshots
+
+![App Screenshot](https://via.placeholder.com/)
+
+[def]: img
