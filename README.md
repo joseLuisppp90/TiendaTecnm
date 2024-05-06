@@ -80,8 +80,3 @@ Referencias
 - Documentación oficial de Firebase: https://firebase.google.com/docs
 
 ---
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/)
-
-[def]: img
