@@ -5,9 +5,11 @@ Tienda del tecnológico de Tláhuac
 Portada:
 -Tecnologico de Tláhuac I
 - Proyecto: TiendaTecNM
-- Autor: Jose Luis Soto Chávez 
+- Autor: Jose Luis Soto Chávez
+- Materia: Desarrollo FrontEnd
+- Profesor: Cordero Ocampo Martin Ramon 
 - Fecha: 29/04/2024
-- Versión: 1.0
+  
 
 ---
 
