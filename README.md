@@ -16,13 +16,14 @@ Portada:
 Índice:
 1. Resumen
 2. Introducción
-3. Desarrollo Temático
+3. Instalación de React
+4. Desarrollo Temático
     - Tecnologías Utilizadas
     - Estructura del Proyecto
     - Funcionalidades Principales
-4. Conclusiones
-5. Referencias
-6. Instalación de React
+5. Conclusiones
+6. Referencias
+
 
 ---
 
