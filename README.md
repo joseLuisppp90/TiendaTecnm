@@ -42,7 +42,7 @@ Para instalar y ejecutar el proyecto TiendaTecNM en tu entorno local, sigue esto
 1. Clona el repositorio desde GitHub: `git clone https://github.com/tuusuario/tiendaTecnm.git`
 2. Navega al directorio del proyecto: `cd tiendaTecnm`
 3. Instala las dependencias del proyecto: `npm install`
-4. Inicia el servidor de desarrollo: `npm start`
+4. Inicia el servidor de desarrollo: `npm run dev`
 5. Abre tu navegador y ve a `http://localhost:3000` para ver la aplicación en funcionamiento.
 
 
